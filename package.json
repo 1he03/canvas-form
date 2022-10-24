@@ -1,0 +1,21 @@
+{
+  "name": "canvas-form",
+  "version": "1.2.0",
+  "description": "You can choose some forms by canvas-form",
+  "main": "index.js",
+  "types": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "form",
+    "forms"
+  ],
+  "author": "Abdulrahman Saad",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.10.1"
+  },
+  "devDependencies": {}
+}
